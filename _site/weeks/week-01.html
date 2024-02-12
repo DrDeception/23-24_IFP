@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
-<meta name="description" content="Aug 29 - Sep 02">
+<meta name="author" content="Dr.&nbsp;Gordon Wright">
+<meta name="dcterms.date" content="2024-03-05">
+<meta name="description" content="Description">
 
 <title>IFP: Suspects &amp; Deception - Week 01</title>
 <style>
@@ -22,7 +23,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -86,6 +107,34 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-slides'] = new List('listing-slides', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-for geeks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-for geeks'] = new List('listing-for geeks', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -197,7 +246,10 @@ window.Quarto = {
    
   <ul>
   <li><a href="#lectures" id="toc-lectures" class="nav-link active" data-scroll-target="#lectures">Lectures</a></li>
-  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a></li>
+  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a>
+  <ul class="collapse">
+  <li><a href="#bibliography-2" id="toc-bibliography-2" class="nav-link" data-scroll-target="#bibliography-2">References</a></li>
+  </ul></li>
   <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
   </ul>
 </nav>
@@ -208,19 +260,31 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Week 01</h1>
-<p class="subtitle lead">Welcome to Intro Data Science</p>
+<p class="subtitle lead">Suspect Interviews</p>
 </div>
 
 <div>
   <div class="description">
-    Aug 29 - Sep 02
+    Description
   </div>
 </div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Dr.&nbsp;Gordon Wright </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 5, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -245,9 +309,17 @@ Date
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1661727600000" data-listing-file-modified-sort="1707771765552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="135" data-listing-title-sort="Welcome to Intro Data Science" data-listing-filename-sort="01-example.qmd">
+<tr data-index="0" data-listing-date-sort="1709683200000" data-listing-file-modified-sort="1707775287223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="135" data-listing-title-sort="Suspect Interviewing" data-listing-filename-sort="01-example.qmd">
 <td>
-<a href="../slides/week-01/01-example.html" class="title listing-title">Welcome to Intro Data Science</a>
+<a href="../slides/week-01/01-example.html" class="title listing-title">Suspect Interviewing</a>
+</td>
+<td>
+<span class="listing-date">Wed, Mar 06</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1661727600000" data-listing-file-modified-sort="1707775026948" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="135" data-listing-title-sort="Welcome to Intro Data Science" data-listing-filename-sort="SuspectInterviews.qmd">
+<td>
+<a href="../slides/week-01/SuspectInterviews.html" class="title listing-title">Welcome to Intro Data Science</a>
 </td>
 <td>
 <span class="listing-date">Mon, Aug 29</span>
@@ -263,6 +335,15 @@ No matching items
 <section id="assignments" class="level1">
 <h1>Assignments</h1>
 <p>There are no assignments scheduled this week.</p>
+<p><span class="citation" data-cites="burgoon2019">(<a href="#ref-burgoon2019" role="doc-biblioref">Burgoon 2019</a>)</span></p>
+<section id="bibliography-2" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="bibliography-2">References</h2>
+<div id="refs-2" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-burgoon2019" class="csl-entry" role="listitem">
+Burgoon, Judee K. 2019. <span>“Separating the Wheat from the Chaff: Guidance from New Technologies for Detecting Deception in the Courtroom.”</span> <em>Frontiers in Psychiatry</em> 9 (January): 774. <a href="https://doi.org/10.3389/fpsyt.2018.00774">https://doi.org/10.3389/fpsyt.2018.00774</a>.
+</div>
+</div>
+</section>
 </section>
 <section id="readings" class="level1">
 <h1>Readings</h1>
@@ -285,9 +366,55 @@ No matching items
 
 
 
+<div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
+
+</div>
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-for geeks">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Assignment
+</th>
+<th>
+Title
+</th>
+<th>
+Due
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="Homework" data-listing-date-sort="1670976000000" data-listing-file-modified-sort="1707771765552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4" data-listing-title-sort="HW 01: Pet Names" data-listing-filename-sort="w1-extras.qmd">
+<td>
+<span class="listing-categories">Homework</span>
+</td>
+<td>
+<a href="../extras/w1-extras.html" class="title listing-title">HW 01: Pet Names</a>
+</td>
+<td>
+<span class="listing-date">Wed, Dec 14</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Lab" data-listing-date-sort="1671148800000" data-listing-file-modified-sort="1707771765552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="Lab 01: Hello R!" data-listing-filename-sort="w1-exercises.qmd">
+<td>
+<span class="listing-categories">Lab</span>
+</td>
+<td>
+<a href="../exercises/w1-exercises.html" class="title listing-title">Lab 01: Hello R!</a>
+</td>
+<td>
+<span class="listing-date">Fri, Dec 16</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -2,22 +2,31 @@
 title: "Investigative Forensic Psychology"
 subtitle: "Suspect Interviews & Deception"
 author: "Dr. Gordon Wright"
+filters:
+  - section-bibliographies
+bibliography: IFPgeneral.bib
+reference-section-title: References
+citeproc: false
 ---
 
-## Course overview
+## Overview of lectures
 
-**Course overview for Psych at Goldsmiths**
+**Dr. Gordon Wright for Investigative Forensic Psychology (23-24)**
 
-Introductory text
+LittleMonkeyLab
+
+## Introductory Reading
+
+Recommended Reading:
+
+[@brewera]
 
 ## Class meetings
 
-| Meeting | Location | Time |
-|---------|----------|------|
-| Lecture | Room A   | time |
-| Lab 01  | Room B   | time |
-| Lab 02  | Room C   | time |
-| Lab 03  | Room D   | time |
+| Meeting    | Topic                         | Time |
+|------------|-------------------------------|------|
+| Lecture 01 | Suspect Interviews            | time |
+| Lecture 02 | Deception & Counter-Deception | time |
 
 ## Teaching team
 

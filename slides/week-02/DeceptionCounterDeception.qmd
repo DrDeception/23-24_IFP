@@ -6,7 +6,7 @@ footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstu
 logo: "images/logo.png"
 format: 
   revealjs:
-    theme: solarized
+    theme: default
     transition: fade
     slide-number: true
     incremental: false 
@@ -14,7 +14,13 @@ format:
     center: true
 execute:
   freeze: auto
+filters:
+  - section-bibliographies
+bibliography: Slides02.bib
+reference-section-title: References
+citeproc: false
 ---
 
 # Slide content
 
+[@denault2020]
