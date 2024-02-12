@@ -25,7 +25,7 @@ listing:
     fields: [categories, title, date]
     date-format: "ddd, MMM DD"
     field-display-names:
-      categories: "Assignment"
+      categories: "Supplementary Content"
       title: "Title"
       date: "Due"
     sort: [date]
@@ -49,6 +49,8 @@ citeproc: false
 There are no assignments scheduled this week.
 
 [@burgoon2019]
+
+@burgoon1990
 
 # Readings
 

@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Intro Data Science"
-subtitle: "Example presentation"
-date: "August 29, 2022"
+title: "Suspect Interviewing"
+subtitle: "Psychological Warfare"
+date: "March 05, 2024"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "images/logo.png"
 format: 
