@@ -1,5 +1,59 @@
 [
   {
+    "objectID": "hw/w2-hw01.html",
+    "href": "hw/w2-hw01.html",
+    "title": "HW 01: Pet Names",
+    "section": "",
+    "text": "Add instructions ."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Syllabus title",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-learning-objectives",
+    "href": "syllabus.html#course-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#textbooks",
+    "href": "syllabus.html#textbooks",
+    "title": "Syllabus",
+    "section": "Textbooks",
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-community",
+    "href": "syllabus.html#course-community",
+    "title": "Syllabus",
+    "section": "Course community",
+    "text": "Course community\n\nInclusive community",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -30,60 +84,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Psychology Website",
-    "section": "",
-    "text": "Course overview for Psych at Goldsmiths\nIntroductory text",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#course-overview",
-    "href": "index.html#course-overview",
-    "title": "Introduction to Psychology Website",
-    "section": "",
-    "text": "Course overview for Psych at Goldsmiths\nIntroductory text",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#class-meetings",
-    "href": "index.html#class-meetings",
-    "title": "Introduction to Psychology Website",
-    "section": "Class meetings",
-    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nRoom A\ntime\n\n\nLab 01\nRoom B\ntime\n\n\nLab 02\nRoom C\ntime\n\n\nLab 03\nRoom D\ntime",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Introduction to Psychology Website",
-    "section": "Teaching team",
-    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "hw/w3-hw02.html",
-    "href": "hw/w3-hw02.html",
-    "title": "HW 02: Data visualization",
-    "section": "",
-    "text": "Add instructions."
-  },
-  {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
-    "section": "",
-    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Dec 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Dec 16\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
-  },
-  {
     "objectID": "labs/w3-lab02.html",
     "href": "labs/w3-lab02.html",
     "title": "Lab 02: Observation",
@@ -98,18 +98,51 @@
     "text": "Add instructions."
   },
   {
-    "objectID": "weeks/week-01.html",
-    "href": "weeks/week-01.html",
-    "title": "Week 01",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigative Forensic Psychology",
     "section": "",
-    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+    "text": "Course overview for Psych at Goldsmiths\nIntroductory text",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "hw/w2-hw01.html",
-    "href": "hw/w2-hw01.html",
-    "title": "HW 01: Pet Names",
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Investigative Forensic Psychology",
     "section": "",
-    "text": "Add instructions ."
+    "text": "Course overview for Psych at Goldsmiths\nIntroductory text",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#class-meetings",
+    "href": "index.html#class-meetings",
+    "title": "Investigative Forensic Psychology",
+    "section": "Class meetings",
+    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nRoom A\ntime\n\n\nLab 01\nRoom B\ntime\n\n\nLab 02\nRoom C\ntime\n\n\nLab 03\nRoom D\ntime",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "Investigative Forensic Psychology",
+    "section": "Teaching team",
+    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Dec 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Dec 16\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
   },
   {
     "objectID": "slides/week-01/01-example.html#bullet-point-list",
@@ -165,46 +198,13 @@
     "href": "slides/week-01/01-example.html#themes",
     "title": "Welcome to Intro Data Science",
     "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
+    "objectID": "hw/w3-hw02.html",
+    "href": "hw/w3-hw02.html",
+    "title": "HW 02: Data visualization",
     "section": "",
-    "text": "Syllabus title",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-learning-objectives",
-    "href": "syllabus.html#course-learning-objectives",
-    "title": "Syllabus",
-    "section": "Course Learning Objectives",
-    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#textbooks",
-    "href": "syllabus.html#textbooks",
-    "title": "Syllabus",
-    "section": "Textbooks",
-    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-community",
-    "href": "syllabus.html#course-community",
-    "title": "Syllabus",
-    "section": "Course community",
-    "text": "Course community\n\nInclusive community",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "text": "Add instructions."
   }
 ]

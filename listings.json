@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/weeks/week-01.html",
+    "items": [
+      "/slides/week-01/01-example.html"
+    ]
+  },
+  {
     "listing": "/schedule.html",
     "items": [
       "/weeks/week-01.html",
@@ -12,12 +18,6 @@
       "/slides/week-02/03-ggplot.html",
       "/hw/w2-hw01.html",
       "/labs/w2-lab01.html"
-    ]
-  },
-  {
-    "listing": "/weeks/week-01.html",
-    "items": [
-      "/slides/week-01/01-example.html"
     ]
   }
 ]
