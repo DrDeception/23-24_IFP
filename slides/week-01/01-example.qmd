@@ -19,15 +19,6 @@ execute:
 
 # Welcome!
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-library(tidyverse)
-library(palmerpenguins)
-library(viridis)
-```
-
 ## Bullet point list
 
 **Unordered**
@@ -54,34 +45,13 @@ library(viridis)
 
 Write mathematical symbols and equations using Latex.
 
-Use the formulas below to calculate $\hat{\beta}_1$, the estimated slope, and $\hat{\beta}_0$, the estimated intercept.
-
-$$
-\begin{aligned}
-&\hat{\beta}_1 = r \frac{s_y}{s_x} \\
-&\hat{\beta}_0 = \bar{y} - \hat{\beta}_1 \bar{x}
-\end{aligned}
-$$
-
 ## Code
-
-```{r}
-#| echo: true
-#| fig-align: center
-
-# Use code chunk option fig-align: center to center the plot. 
-ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, 
-                            color = species)) + 
-         geom_point() + 
-  labs(x = "Flipper Length (in mm)",y = "Body Mass (in g)",
-       title = "Flipper length vs. body mass",
-       subtitle = "Penguins at Palmer Station, Antartica") +
-  scale_color_viridis_d()
-```
 
 ## Images
 
-![Artwork by [\@allison_horst](https://www.allisonhorst.com/)](images/penguins.png){fig-alt="Three penguins labeled Chinstrap, Gentoo, and Adelie." fig-align="center"}
+![Artwork by
+[\@allison_horst](https://www.allisonhorst.com/)](images/penguins.png){fig-alt="Three penguins labeled Chinstrap, Gentoo, and Adelie."
+fig-align="center"}
 
 ## Columns
 
@@ -94,9 +64,7 @@ Calculate the proportion of penguins from each species.
 ```{r}
 #| echo: true
 
-penguins |>
-  count(species) |>
-  mutate(prop  = n / sum(n))
+
 ```
 :::
 :::
@@ -107,15 +75,7 @@ penguins |>
 ## Plot
 
 ```{r}
-penguins |>
-  filter(species == "Adelie", !is.na(sex)) |>
-  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + 
-  geom_point() +
-  labs(x = "Flipper Length (in mm)",y = "Body Mass (in g)",
-       title = "Flipper length vs. body mass",
-       subtitle = "Adelie Penguins at Palmer Station, Antartica") +
-  scale_color_viridis_d() + 
-  facet_wrap(~island)
+
 
 ```
 
@@ -125,15 +85,7 @@ penguins |>
 #| echo: true
 #| eval: false
 
-penguins |>
-  filter(species == "Adelie", !is.na(sex)) |>
-  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + 
-  geom_point() +
-  labs(x = "Flipper Length (in mm)",y = "Body Mass (in g)",
-       title = "Flipper length vs. body mass",
-       subtitle = "Adelie Penguins at Palmer Station, Antartica") +
-  scale_color_viridis_d() + 
-  facet_wrap(~island)
+
 ```
 :::
 
@@ -141,9 +93,11 @@ penguins |>
 
 Customize the appearance of the slides using
 
--   Built-in [Reveal theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)
+-   Built-in [Reveal
+    theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)
 
--   Modify built-in theme using [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)
+-   Modify built-in theme using
+    [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)
 
     -   Variant of CSS that supports variables and other features
 

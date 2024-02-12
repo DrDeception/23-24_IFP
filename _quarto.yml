@@ -10,11 +10,11 @@ website:
     align: center
     tools:
       - icon: github
-        href: 
+        href: "https://github.com/DrDeception/23-24_IFP"
         text: GitHub
-      - icon: cloud-fill
-        href: 
-        text: RStudio Cloud
+      # - icon: cloud-fill
+      #   href: 
+      #   text: RStudio Cloud
     style: docked
     contents:
       - href: index.qmd
@@ -30,5 +30,6 @@ format:
    # css: styles.css
     toc: true
 
-
+execute: 
+  freeze: auto
 
