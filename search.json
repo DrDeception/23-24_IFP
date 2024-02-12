@@ -1,73 +1,87 @@
 [
   {
-    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "title": "Visualizing data with ggplot2",
-    "section": "References",
-    "text": "References\n\n\nDenault, Vincent, Pierrich Plusquellec, Louise M. Jupe, Michel St-Yves, Norah E. Dunbar, Maria Hartwig, Siegfried L. Sporer, et al. 2020. “The Analysis of Nonverbal Communication: The Dangers of Pseudoscience in Security and Justice Contexts.” Anuario de PsicologJur 30 (1): 1–12. https://doi.org/10.5093/apj2019a9."
-  },
-  {
     "objectID": "slides/week-01/SuspectInterviews.html#bullet-point-list",
     "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Bullet point list",
     "text": "Bullet point list\n(Wright et al. 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
     "href": "slides/week-01/SuspectInterviews.html#incremental-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Incremental list",
     "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#equations",
     "href": "slides/week-01/SuspectInterviews.html#equations",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Equations",
     "text": "Equations\nWrite mathematical symbols and equations using Latex."
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#code",
     "href": "slides/week-01/SuspectInterviews.html#code",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Code",
     "text": "Code"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#images",
     "href": "slides/week-01/SuspectInterviews.html#images",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Images",
     "text": "Images\n\nArtwork by @allison_horst"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#columns",
     "href": "slides/week-01/SuspectInterviews.html#columns",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Columns",
     "text": "Columns\n\n\nCalculate the proportion of penguins from each species."
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#panels",
     "href": "slides/week-01/SuspectInterviews.html#panels",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Panels",
     "text": "Panels\n\nPlotCode"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#themes",
     "href": "slides/week-01/SuspectInterviews.html#themes",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "Themes",
     "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
     "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
-    "title": "Welcome to Intro Data Science",
+    "title": "Suspect Interviewing",
     "section": "References",
     "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, Caroline Catmur, and Geoffrey Bird. 2015. “Good Liars Are Neither ‘Dark’ nor Self-Deceptive.” Edited by Alessio Avenanti. PLOS ONE 10 (6): e0127315. https://doi.org/10.1371/journal.pone.0127315."
+  },
+  {
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-02.html#bibliography-2",
+    "href": "weeks/week-02.html#bibliography-2",
+    "title": "Week 02",
+    "section": "References",
+    "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, and Geoffrey Bird. 2012. “‘You Can’t Kid a Kidder’: Association Between Production and Detection of Deception in an Interactive Deception Task. U1 - Wright2012.” Frontiers in Human Neuroscience 6: 87. https://doi.org/10.3389/fnhum.2012.00087."
+  },
+  {
+    "objectID": "extras/w1-extras.html",
+    "href": "extras/w1-extras.html",
+    "title": "Extras 01: Suspect Interviews",
+    "section": "",
+    "text": "Add instructions ."
   },
   {
     "objectID": "exercises/w2-exercises.html",
@@ -77,18 +91,74 @@
     "text": "Add instructions."
   },
   {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nWed, Mar 06\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\n\nNo matching items"
+    "text": "Syllabus title",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
-    "objectID": "weeks/week-02.html#bibliography-2",
-    "href": "weeks/week-02.html#bibliography-2",
-    "title": "Week 02",
-    "section": "References",
-    "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, and Geoffrey Bird. 2012. “‘You Can’t Kid a Kidder’: Association Between Production and Detection of Deception in an Interactive Deception Task. U1 - Wright2012.” Frontiers in Human Neuroscience 6: 87. https://doi.org/10.3389/fnhum.2012.00087."
+    "objectID": "syllabus.html#course-learning-objectives",
+    "href": "syllabus.html#course-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#textbooks",
+    "href": "syllabus.html#textbooks",
+    "title": "Syllabus",
+    "section": "Textbooks",
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-community",
+    "href": "syllabus.html#course-community",
+    "title": "Syllabus",
+    "section": "Course community",
+    "text": "Course community\n\nInclusive community",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch O6\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "schedule.html#weekly-schedule",
+    "href": "schedule.html#weekly-schedule",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch O6\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "schedule.html#coursework",
+    "href": "schedule.html#coursework",
+    "title": "Schedule",
+    "section": "Coursework",
+    "text": "Coursework\nHere are some assessment items\n\nHomework\n2 hrs per week\n\n\nLabs\n2 hrs per week\n\n\nExams\n2 hrs face to face",
+    "crumbs": [
+      "Schedule"
+    ]
   },
   {
     "objectID": "index.html",
@@ -141,46 +211,16 @@
     ]
   },
   {
-    "objectID": "extras/w1-extras.html",
-    "href": "extras/w1-extras.html",
-    "title": "HW 01: Pet Names",
+    "objectID": "exercises/w1-exercises.html",
+    "href": "exercises/w1-exercises.html",
+    "title": "Exercises 02: Deception Plus",
     "section": "",
-    "text": "Add instructions ."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch O6\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "schedule.html#weekly-schedule",
-    "href": "schedule.html#weekly-schedule",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch O6\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "schedule.html#coursework",
-    "href": "schedule.html#coursework",
-    "title": "Schedule",
-    "section": "Coursework",
-    "text": "Coursework\nHere are some assessment items\n\nHomework\n2 hrs per week\n\n\nLabs\n2 hrs per week\n\n\nExams\n2 hrs face to face",
-    "crumbs": [
-      "Schedule"
-    ]
+    "text": "Add instructions."
   },
   {
     "objectID": "extras/w2-extras.html",
     "href": "extras/w2-extras.html",
-    "title": "HW 02: Data visualization",
+    "title": "Extras 02: Deception Wizarding",
     "section": "",
     "text": "Add instructions."
   },
@@ -189,123 +229,20 @@
     "href": "weeks/week-01.html",
     "title": "Week 01",
     "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nWed, Mar 06\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\n\nNo matching items"
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "weeks/week-01.html#bibliography-2",
     "href": "weeks/week-01.html#bibliography-2",
     "title": "Week 01",
     "section": "References",
-    "text": "References\n\n\nBurgoon, Judee K. 2019. “Separating the Wheat from the Chaff: Guidance from New Technologies for Detecting Deception in the Courtroom.” Frontiers in Psychiatry 9 (January): 774. https://doi.org/10.3389/fpsyt.2018.00774."
+    "text": "References\n\n\nBurgoon, Judee K. 2019. “Separating the Wheat from the Chaff: Guidance from New Technologies for Detecting Deception in the Courtroom.” Frontiers in Psychiatry 9 (January): 774. https://doi.org/10.3389/fpsyt.2018.00774.\n\n\nBURGOON, JUDEE K., THOMAS BIRK, and MICHAEL PFAU. 1990. “Nonverbal Behaviors, Persuasion, and Credibility.” Human Communication Research Hum Commun Res 17 (1): 140–69. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x."
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Syllabus title",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-learning-objectives",
-    "href": "syllabus.html#course-learning-objectives",
-    "title": "Syllabus",
-    "section": "Course Learning Objectives",
-    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#textbooks",
-    "href": "syllabus.html#textbooks",
-    "title": "Syllabus",
-    "section": "Textbooks",
-    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-community",
-    "href": "syllabus.html#course-community",
-    "title": "Syllabus",
-    "section": "Course community",
-    "text": "Course community\n\nInclusive community",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "exercises/w1-exercises.html",
-    "href": "exercises/w1-exercises.html",
-    "title": "Lab 01: Hello R!",
-    "section": "",
-    "text": "Add instructions."
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#bullet-point-list",
-    "href": "slides/week-01/01-example.html#bullet-point-list",
-    "title": "Suspect Interviewing",
-    "section": "Bullet point list",
-    "text": "Bullet point list\n(Wright et al. 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#incremental-list",
-    "href": "slides/week-01/01-example.html#incremental-list",
-    "title": "Suspect Interviewing",
-    "section": "Incremental list",
-    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#equations",
-    "href": "slides/week-01/01-example.html#equations",
-    "title": "Suspect Interviewing",
-    "section": "Equations",
-    "text": "Equations\nWrite mathematical symbols and equations using Latex."
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#code",
-    "href": "slides/week-01/01-example.html#code",
-    "title": "Suspect Interviewing",
-    "section": "Code",
-    "text": "Code"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#images",
-    "href": "slides/week-01/01-example.html#images",
-    "title": "Suspect Interviewing",
-    "section": "Images",
-    "text": "Images\n\nArtwork by @allison_horst"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#columns",
-    "href": "slides/week-01/01-example.html#columns",
-    "title": "Suspect Interviewing",
-    "section": "Columns",
-    "text": "Columns\n\n\nCalculate the proportion of penguins from each species."
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#panels",
-    "href": "slides/week-01/01-example.html#panels",
-    "title": "Suspect Interviewing",
-    "section": "Panels",
-    "text": "Panels\n\nPlotCode"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#themes",
-    "href": "slides/week-01/01-example.html#themes",
-    "title": "Suspect Interviewing",
-    "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
-  },
-  {
-    "objectID": "slides/week-01/01-example.html#bibliography-1",
-    "href": "slides/week-01/01-example.html#bibliography-1",
-    "title": "Suspect Interviewing",
+    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "title": "Visualizing data with ggplot2",
     "section": "References",
-    "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, Caroline Catmur, and Geoffrey Bird. 2015. “Good Liars Are Neither ‘Dark’ nor Self-Deceptive.” Edited by Alessio Avenanti. PLOS ONE 10 (6): e0127315. https://doi.org/10.1371/journal.pone.0127315."
+    "text": "References\n\n\nDenault, Vincent, Pierrich Plusquellec, Louise M. Jupe, Michel St-Yves, Norah E. Dunbar, Maria Hartwig, Siegfried L. Sporer, et al. 2020. “The Analysis of Nonverbal Communication: The Dangers of Pseudoscience in Security and Justice Contexts.” Anuario de PsicologJur 30 (1): 1–12. https://doi.org/10.5093/apj2019a9."
   }
 ]
