@@ -1,0 +1,15 @@
+{
+  "hash": "7c28c311a6e20681174ac47af8e720d6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Investigative Forensic Psychology\"\nsubtitle: \"Suspect Interviews & Deception\"\nauthor: \"Dr. Gordon Wright\"\nfilters:\n  - section-bibliographies\nbibliography: IFPgeneral.bib\nreference-section-title: References\nciteproc: false\n---\n\n\n## Overview of lectures\n\n**Dr. Gordon Wright for Investigative Forensic Psychology (23-24)**\n\nLittleMonkeyLab\n\n## Introductory Reading\n\nRecommended Reading:\n\n[@brewera]\n\n## Class meetings\n\n| Meeting    | Topic                         | Time |\n|------------|-------------------------------|------|\n| Lecture 01 | Suspect Interviews            | time |\n| Lecture 02 | Deception & Counter-Deception | time |\n\n## Teaching team\n\n| Name                 | Office hours   | Location   |\n|----------------------|----------------|------------|\n| Instructor           | Tue 2 - 3pm    | Office 123 |\n| Teaching Assistant 1 | Mon 5 - 7pm    | Zoom       |\n| Teaching Assistant 2 | Fri 11am - 1pm | Zoom       |\n\n<!-- Footer insert below -->\n\n\n\n# End\n\n## Contact\n\n<script src=\"https://use.fontawesome.com/23c1d38eea.js\"></script>\n\n<ul class=\"fa-ul\" style=\"color:black; list-style:none;\">\n<li><i class=\"fa-li fa fa-linkedin-square\"></i> <a href=\"https://www.linkedin.com/in/sharonklinkenberg/\" target=\"_blank\" style=\"color:black; border-bottom:none;\">Klinkenberg</a></li>\n<li><i class=\"fa-li fa fa-envelope-o\"></i> <a style=\"unicode-bidi:bidi-override; direction: rtl; color:black\" href=\"javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')\">ln.AvU@grebneknilK.S</a></li>\n<li><i class=\"fa-li fa fa-github\"></i> <a href=\"https://github.com/ShKlinkenberg\" target=\"_blank\" style=\"color:black; border-bottom:none;\">ShKlinkenberg</a></li>\n</ul>\n\n<small style=\"text-align:left;\">\n\n\n[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]\n\n[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/\n[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png\n[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg\n\n</small>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

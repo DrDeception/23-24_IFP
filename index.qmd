@@ -35,3 +35,8 @@ Recommended Reading:
 | Instructor           | Tue 2 - 3pm    | Office 123 |
 | Teaching Assistant 1 | Mon 5 - 7pm    | Zoom       |
 | Teaching Assistant 2 | Fri 11am - 1pm | Zoom       |
+
+<!-- Footer insert below -->
+
+```{r child="footer.qmd"}
+```

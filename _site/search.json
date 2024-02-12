@@ -7,55 +7,114 @@
     "text": "Add instructions ."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "footer.html",
+    "href": "footer.html",
+    "title": "End",
     "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch 06\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Schedule"
-    ]
+    "text": "Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0"
   },
   {
-    "objectID": "schedule.html#weekly-schedule",
-    "href": "schedule.html#weekly-schedule",
-    "title": "Schedule",
+    "objectID": "footer.html#contact",
+    "href": "footer.html#contact",
+    "title": "End",
     "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch 06\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items",
+    "text": "Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Syllabus title",
     "crumbs": [
-      "Schedule"
+      "Syllabus"
     ]
   },
   {
-    "objectID": "schedule.html#coursework",
-    "href": "schedule.html#coursework",
-    "title": "Schedule",
-    "section": "Coursework",
-    "text": "Coursework\nHere are some assessment items\n\nHomework\n2 hrs per week\n\n\nLabs\n2 hrs per week\n\n\nExams\n2 hrs face to face",
+    "objectID": "syllabus.html#course-learning-objectives",
+    "href": "syllabus.html#course-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Learning Objectives",
+    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
     "crumbs": [
-      "Schedule"
+      "Syllabus"
     ]
   },
   {
-    "objectID": "exercises/w1-exercises.html",
-    "href": "exercises/w1-exercises.html",
-    "title": "Exercises 01: Suspect behaviour",
+    "objectID": "syllabus.html#textbooks",
+    "href": "syllabus.html#textbooks",
+    "title": "Syllabus",
+    "section": "Textbooks",
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-community",
+    "href": "syllabus.html#course-community",
+    "title": "Syllabus",
+    "section": "Course community",
+    "text": "Course community\n\nInclusive community",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "exercises/w2-exercises.html",
+    "href": "exercises/w2-exercises.html",
+    "title": "Exercises 02: Getting Deceptive",
     "section": "",
     "text": "Add instructions."
   },
   {
-    "objectID": "slides/week-02/DeceptionCounterDeception.html#stuff",
-    "href": "slides/week-02/DeceptionCounterDeception.html#stuff",
-    "title": "Deception & Counter-Deception",
-    "section": "Stuff",
-    "text": "Stuff\nHere is some stuff"
+    "objectID": "slides/week-01/SuspectInterviews.html#bullet-point-list",
+    "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
+    "title": "Suspect Interviewing",
+    "section": "Bullet point list",
+    "text": "Bullet point list\n(Wright et al., 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
-    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "title": "Deception & Counter-Deception",
+    "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
+    "href": "slides/week-01/SuspectInterviews.html#incremental-list",
+    "title": "Suspect Interviewing",
+    "section": "Incremental list",
+    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
+    "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
+    "title": "Suspect Interviewing",
     "section": "References",
-    "text": "References\n\n\nDenault, V., Plusquellec, P., Jupe, L. M., St-Yves, M., Dunbar, N. E., Hartwig, M., Sporer, S. L., Rioux-Turcotte, J., Jarry, J., Walsh, D., & al., et. (2020). The analysis of nonverbal communication: The dangers of pseudoscience in security and justice contexts. Anuario de PsicologJur, 30(1), 1–12. https://doi.org/10.5093/apj2019a9"
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither “dark” nor self-deceptive. PLOS ONE, 10(6), e0127315. https://doi.org/10.1371/journal.pone.0127315"
+  },
+  {
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-01.html#bibliography-2",
+    "href": "weeks/week-01.html#bibliography-2",
+    "title": "Week 01",
+    "section": "References",
+    "text": "References\n\n\nBurgoon, J. K. (2019). Separating the wheat from the chaff: Guidance from new technologies for detecting deception in the courtroom. Frontiers in Psychiatry, 9, 774. https://doi.org/10.3389/fpsyt.2018.00774\n\n\nBURGOON, J. K., BIRK, T., & PFAU, M. (1990). Nonverbal Behaviors, Persuasion, and Credibility. Human Communication Research Hum Commun Res, 17(1), 140–169. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x"
+  },
+  {
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nDeception & Counter-Deception\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-02.html#bibliography-2",
+    "href": "weeks/week-02.html#bibliography-2",
+    "title": "Week 02",
+    "section": "References",
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "index.html",
@@ -108,99 +167,64 @@
     ]
   },
   {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
-    "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nDeception & Counter-Deception\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Investigative Forensic Psychology",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "weeks/week-02.html#bibliography-2",
-    "href": "weeks/week-02.html#bibliography-2",
-    "title": "Week 02",
+    "objectID": "slides/week-02/DeceptionCounterDeception.html#stuff",
+    "href": "slides/week-02/DeceptionCounterDeception.html#stuff",
+    "title": "Deception & Counter-Deception",
+    "section": "Stuff",
+    "text": "Stuff\nHere is some stuff"
+  },
+  {
+    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "title": "Deception & Counter-Deception",
     "section": "References",
-    "text": "References\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+    "text": "References\n\n\nDenault, V., Plusquellec, P., Jupe, L. M., St-Yves, M., Dunbar, N. E., Hartwig, M., Sporer, S. L., Rioux-Turcotte, J., Jarry, J., Walsh, D., & al., et. (2020). The analysis of nonverbal communication: The dangers of pseudoscience in security and justice contexts. Anuario de PsicologJur, 30(1), 1–12. https://doi.org/10.5093/apj2019a9"
   },
   {
-    "objectID": "weeks/week-01.html",
-    "href": "weeks/week-01.html",
-    "title": "Week 01",
-    "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "weeks/week-01.html#bibliography-2",
-    "href": "weeks/week-01.html#bibliography-2",
-    "title": "Week 01",
-    "section": "References",
-    "text": "References\n\n\nBurgoon, J. K. (2019). Separating the wheat from the chaff: Guidance from new technologies for detecting deception in the courtroom. Frontiers in Psychiatry, 9, 774. https://doi.org/10.3389/fpsyt.2018.00774\n\n\nBURGOON, J. K., BIRK, T., & PFAU, M. (1990). Nonverbal Behaviors, Persuasion, and Credibility. Human Communication Research Hum Commun Res, 17(1), 140–169. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#bullet-point-list",
-    "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
-    "title": "Suspect Interviewing",
-    "section": "Bullet point list",
-    "text": "Bullet point list\n(Wright et al., 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
-    "href": "slides/week-01/SuspectInterviews.html#incremental-list",
-    "title": "Suspect Interviewing",
-    "section": "Incremental list",
-    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
-    "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
-    "title": "Suspect Interviewing",
-    "section": "References",
-    "text": "References\n\n\nWright, G. R. T., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither “dark” nor self-deceptive. PLOS ONE, 10(6), e0127315. https://doi.org/10.1371/journal.pone.0127315"
-  },
-  {
-    "objectID": "exercises/w2-exercises.html",
-    "href": "exercises/w2-exercises.html",
-    "title": "Exercises 02: Getting Deceptive",
+    "objectID": "exercises/w1-exercises.html",
+    "href": "exercises/w1-exercises.html",
+    "title": "Exercises 01: Suspect behaviour",
     "section": "",
     "text": "Add instructions."
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Syllabus title",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch 06\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items\n\n\nOn this site you can find my statistics lectures for SMCO and SMCR.\n\n\nError in x[[jj]][iseq] &lt;- vjj: replacement has length zero\n\n\n\n\n\nDate\nLecture\nHandout\nSlides\n\n\n\n\nNA\nExercises 01: Suspect behaviour\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w1-exercises.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w1-exercises.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExercises 02: Getting Deceptive\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w2-exercises.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w2-exercises.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExtras 01: Suspect Interviews\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w1-extras.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w1-extras.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExtras 02: Deception Wizarding\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w2-extras.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w2-extras.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nNA\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/footer.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/footer.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;",
     "crumbs": [
-      "Syllabus"
+      "Schedule"
     ]
   },
   {
-    "objectID": "syllabus.html#course-learning-objectives",
-    "href": "syllabus.html#course-learning-objectives",
-    "title": "Syllabus",
-    "section": "Course Learning Objectives",
-    "text": "Course Learning Objectives\nBy the end of the term, you will…\n\nlearn studd\nlearn more stuff",
+    "objectID": "schedule.html#weekly-schedule",
+    "href": "schedule.html#weekly-schedule",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nDescription\n\n\nSuspect Interviews\n\n\n\n\nWeek 02\n\n\nMarch 06\n\n\nDeception & Counter-Deception\n\n\n\n\n\nNo matching items\n\n\nOn this site you can find my statistics lectures for SMCO and SMCR.\n\n\nError in x[[jj]][iseq] &lt;- vjj: replacement has length zero\n\n\n\n\n\nDate\nLecture\nHandout\nSlides\n\n\n\n\nNA\nExercises 01: Suspect behaviour\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w1-exercises.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w1-exercises.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExercises 02: Getting Deceptive\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w2-exercises.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/exercises/w2-exercises.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExtras 01: Suspect Interviews\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w1-extras.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w1-extras.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nExtras 02: Deception Wizarding\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w2-extras.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/extras/w2-extras.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n\n\nNA\nNA\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/footer.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;\n&lt;a href=\"https://shklinkenberg.github.io/statistics-lectures/slides/footer.slide.html\" target=\"_blank\" class=\"external\"&gt;link&lt;/a&gt;",
     "crumbs": [
-      "Syllabus"
+      "Schedule"
     ]
   },
   {
-    "objectID": "syllabus.html#textbooks",
-    "href": "syllabus.html#textbooks",
-    "title": "Syllabus",
-    "section": "Textbooks",
-    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021",
+    "objectID": "schedule.html#coursework",
+    "href": "schedule.html#coursework",
+    "title": "Schedule",
+    "section": "Coursework",
+    "text": "Coursework\nHere are some assessment items\n\nHomework\n2 hrs per week\n\n\nLabs\n2 hrs per week\n\n\nExams\n2 hrs face to face",
     "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-community",
-    "href": "syllabus.html#course-community",
-    "title": "Syllabus",
-    "section": "Course community",
-    "text": "Course community\n\nInclusive community",
-    "crumbs": [
-      "Syllabus"
+      "Schedule"
     ]
   },
   {

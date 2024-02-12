@@ -5,7 +5,7 @@ website:
   title: "IFP: Suspects & Deception"
   
   sidebar:
-    background: primary
+    background: red
     logo: "images/LMLLOGO.png"
     pinned: true
     align: center
@@ -24,12 +24,14 @@ website:
         text: Syllabus
       - href: schedule.qmd
         text: Schedule
-csl: apa7.csl       
+csl: apa7.csl 
 format:
   html:
     theme: cosmo
+    mainfont: "Atkinson Hyperlegible"
    # css: styles.css
     toc: true
+    
 
 execute: 
   freeze: auto
