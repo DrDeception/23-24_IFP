@@ -4,7 +4,7 @@
     "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
     "title": "Suspect Interviewing",
     "section": "Bullet point list",
-    "text": "Bullet point list\n(Wright et al. 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
+    "text": "Bullet point list\n(Wright et al., 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
@@ -60,7 +60,7 @@
     "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
     "title": "Suspect Interviewing",
     "section": "References",
-    "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, Caroline Catmur, and Geoffrey Bird. 2015. “Good Liars Are Neither ‘Dark’ nor Self-Deceptive.” Edited by Alessio Avenanti. PLOS ONE 10 (6): e0127315. https://doi.org/10.1371/journal.pone.0127315."
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither “dark” nor self-deceptive. PLOS ONE, 10(6), e0127315. https://doi.org/10.1371/journal.pone.0127315"
   },
   {
     "objectID": "weeks/week-02.html",
@@ -74,7 +74,7 @@
     "href": "weeks/week-02.html#bibliography-2",
     "title": "Week 02",
     "section": "References",
-    "text": "References\n\n\nWright, Gordon R. T., Christopher J. Berry, and Geoffrey Bird. 2012. “‘You Can’t Kid a Kidder’: Association Between Production and Detection of Deception in an Interactive Deception Task. U1 - Wright2012.” Frontiers in Human Neuroscience 6: 87. https://doi.org/10.3389/fnhum.2012.00087."
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
   },
   {
     "objectID": "extras/w1-extras.html",
@@ -236,13 +236,13 @@
     "href": "weeks/week-01.html#bibliography-2",
     "title": "Week 01",
     "section": "References",
-    "text": "References\n\n\nBurgoon, Judee K. 2019. “Separating the Wheat from the Chaff: Guidance from New Technologies for Detecting Deception in the Courtroom.” Frontiers in Psychiatry 9 (January): 774. https://doi.org/10.3389/fpsyt.2018.00774.\n\n\nBURGOON, JUDEE K., THOMAS BIRK, and MICHAEL PFAU. 1990. “Nonverbal Behaviors, Persuasion, and Credibility.” Human Communication Research Hum Commun Res 17 (1): 140–69. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x."
+    "text": "References\n\n\nBurgoon, J. K. (2019). Separating the wheat from the chaff: Guidance from new technologies for detecting deception in the courtroom. Frontiers in Psychiatry, 9, 774. https://doi.org/10.3389/fpsyt.2018.00774\n\n\nBURGOON, J. K., BIRK, T., & PFAU, M. (1990). Nonverbal Behaviors, Persuasion, and Credibility. Human Communication Research Hum Commun Res, 17(1), 140–169. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x"
   },
   {
     "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
     "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
     "title": "Visualizing data with ggplot2",
     "section": "References",
-    "text": "References\n\n\nDenault, Vincent, Pierrich Plusquellec, Louise M. Jupe, Michel St-Yves, Norah E. Dunbar, Maria Hartwig, Siegfried L. Sporer, et al. 2020. “The Analysis of Nonverbal Communication: The Dangers of Pseudoscience in Security and Justice Contexts.” Anuario de PsicologJur 30 (1): 1–12. https://doi.org/10.5093/apj2019a9."
+    "text": "References\n\n\nDenault, V., Plusquellec, P., Jupe, L. M., St-Yves, M., Dunbar, N. E., Hartwig, M., Sporer, S. L., Rioux-Turcotte, J., Jarry, J., Walsh, D., & al., et. (2020). The analysis of nonverbal communication: The dangers of pseudoscience in security and justice contexts. Anuario de PsicologJur, 30(1), 1–12. https://doi.org/10.5093/apj2019a9"
   }
 ]
