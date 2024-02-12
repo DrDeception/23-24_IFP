@@ -147,6 +147,7 @@ div.csl-indent {
     }
   })
   </script>
+<style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -309,7 +310,7 @@ Date
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781079454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41" data-listing-title-sort="Suspect Interviewing" data-listing-filename-sort="SuspectInterviews.qmd">
+<tr data-index="0" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781282024" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41" data-listing-title-sort="Suspect Interviewing" data-listing-filename-sort="SuspectInterviews.qmd">
 <td>
 <a href="../slides/week-01/SuspectInterviews.html" class="title listing-title">Suspect Interviewing</a>
 </td>
@@ -383,7 +384,7 @@ Due
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Extras" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781079454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="Extras 01: Suspect Interviews" data-listing-filename-sort="w1-extras.qmd">
+<tr data-index="0" data-categories="Extras" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781282020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="Extras 01: Suspect Interviews" data-listing-filename-sort="w1-extras.qmd">
 <td>
 <span class="listing-categories">Extras</span>
 </td>
@@ -394,7 +395,7 @@ Due
 <span class="listing-date">Tue, Mar 05</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="Exercises" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781079454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Exercises 01: Suspect behaviour" data-listing-filename-sort="w1-exercises.qmd">
+<tr data-index="1" data-categories="Exercises" data-listing-date-sort="1709596800000" data-listing-file-modified-sort="1707781282020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Exercises 01: Suspect behaviour" data-listing-filename-sort="w1-exercises.qmd">
 <td>
 <span class="listing-categories">Exercises</span>
 </td>
@@ -490,6 +491,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/DrDeception\.github\.io\/23-24_IFP\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -803,4 +822,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
