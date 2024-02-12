@@ -1,6 +1,6 @@
 ---
-title: "Exercises 02: Deception Plus"
-date: "March 06, 2024"
+title: "Exercises 01: Suspect behaviour"
+date: "March 05, 2024"
 categories: "Exercises"
 ---
 

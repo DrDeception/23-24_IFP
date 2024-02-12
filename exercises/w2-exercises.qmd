@@ -1,7 +1,7 @@
 ---
-title: "Lab 02: Observation"
-date: "December 23, 2022"
-categories: "Lab"
+title: "Exercises 02: Getting Deceptive"
+date: "March 06, 2024"
+categories: "Exercises"
 ---
 
-Add instructions. 
+Add instructions.
