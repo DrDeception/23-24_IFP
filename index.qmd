@@ -1,6 +1,7 @@
 ---
 title: "Investigative Forensic Psychology"
 subtitle: "Suspect Interviews & Deception"
+author: "Dr. Gordon Wright"
 ---
 
 ## Course overview

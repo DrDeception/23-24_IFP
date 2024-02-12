@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Template Psych Website"
+  title: "IFP: Suspects & Deception"
   sidebar:
     background: primary
     logo: "images/LMLLOGO.png"
