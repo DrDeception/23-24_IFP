@@ -150,48 +150,6 @@
     "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
   },
   {
-    "objectID": "slides/week-01/SuspectInterviews.html#equations",
-    "href": "slides/week-01/SuspectInterviews.html#equations",
-    "title": "Suspect Interviewing",
-    "section": "Equations",
-    "text": "Equations\nWrite mathematical symbols and equations using Latex."
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#code",
-    "href": "slides/week-01/SuspectInterviews.html#code",
-    "title": "Suspect Interviewing",
-    "section": "Code",
-    "text": "Code"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#images",
-    "href": "slides/week-01/SuspectInterviews.html#images",
-    "title": "Suspect Interviewing",
-    "section": "Images",
-    "text": "Images\n\nArtwork by @allison_horst"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#columns",
-    "href": "slides/week-01/SuspectInterviews.html#columns",
-    "title": "Suspect Interviewing",
-    "section": "Columns",
-    "text": "Columns\n\n\nCalculate the proportion of penguins from each species."
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#panels",
-    "href": "slides/week-01/SuspectInterviews.html#panels",
-    "title": "Suspect Interviewing",
-    "section": "Panels",
-    "text": "Panels\n\nPlotCode"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#themes",
-    "href": "slides/week-01/SuspectInterviews.html#themes",
-    "title": "Suspect Interviewing",
-    "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
-  },
-  {
     "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
     "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
     "title": "Suspect Interviewing",

@@ -10,7 +10,6 @@
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.533">
 
-  <meta name="dcterms.date" content="2024-03-05">
   <title>IFP: Suspects &amp; Deception - Suspect Interviewing</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -354,7 +353,7 @@
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">2024-03-05</p>
+  <p class="date">Tuesday, March 05</p>
 </section>
 <section>
 <section id="welcome" class="title-slide slide level1 center">
@@ -387,53 +386,8 @@
 </ul>
 </div>
 </section>
-<section id="equations" class="slide level2 center">
-<h2>Equations</h2>
-<p>Write mathematical symbols and equations using Latex.</p>
-</section>
-<section id="code" class="slide level2 center">
-<h2>Code</h2>
-</section>
-<section id="images" class="slide level2 center">
-<h2>Images</h2>
-
-<img data-src="images/penguins.png" class="quarto-figure quarto-figure-center r-stretch" alt="Three penguins labeled Chinstrap, Gentoo, and Adelie."><p class="caption">Artwork by <a href="https://www.allisonhorst.com/">@allison_horst</a></p></section>
-<section id="columns" class="slide level2 center">
-<h2>Columns</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Calculate the proportion of penguins from each species.</p>
-</div><div class="column" style="width:50%;">
-
-</div>
-</div>
-</section>
-<section id="panels" class="slide level2 center">
-<h2>Panels</h2>
-<div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Plot</a></li><li><a href="#tabset-1-2">Code</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1">
-
-</div>
-<div id="tabset-1-2">
-
-</div>
-</div>
-</div>
-</section>
-<section id="themes" class="slide level2 center">
-<h2>Themes</h2>
-<p>Customize the appearance of the slides using</p>
-<ul>
-<li><p>Built-in <a href="https://quarto.org/docs/presentations/revealjs/themes.html#using-themes">Reveal theme</a></p></li>
-<li><p>Modify built-in theme using <a href="https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes">Sass</a></p>
-<ul>
-<li>Variant of CSS that supports variables and other features</li>
-</ul></li>
-<li><p>Create custom thing using Sass</p></li>
-</ul>
-<p>Specify the theme and/or Sass file (.scss) in the YAML</p>
+<section id="section" class="slide level2 center">
+<h2></h2>
 
 
 <div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
@@ -478,7 +432,7 @@ Wright, G. R. T., Berry, C. J., Catmur, C., &amp; Bird, G. (2015). Good liars ar
       // Full list of configuration options available at:
       // https://revealjs.com/config/
       Reveal.initialize({
-'controlsAuto': true,
+'controlsAuto': false,
 'previewLinksAuto': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
@@ -489,7 +443,7 @@ Wright, G. R. T., Berry, C. J., Catmur, C., &amp; Bird, G. (2015). Good liars ar
 'smaller': false,
  
         // Display controls in the bottom right corner
-        controls: false,
+        controls: true,
 
         // Help the user learn the controls by providing hints, for example by
         // bouncing the down arrow when they first encounter a vertical slide
@@ -665,44 +619,6 @@ Wright, G. R. T., Berry, C. J., Catmur, C., &amp; Bird, G. (2015). Good liars ar
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

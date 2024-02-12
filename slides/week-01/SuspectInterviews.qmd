@@ -2,12 +2,15 @@
 title: "Suspect Interviewing"
 subtitle: "Psychological Warfare"
 date: "March 05, 2024"
+date-format: "dddd, MMMM DD"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "images/logo.png"
 format: 
   revealjs:
     theme: default
     transition: fade
+    controls-layout: edges
+    controls: true
     slide-number: true
     incremental: false 
     chalkboard: true
@@ -48,66 +51,4 @@ citeproc: false
 -   Item 3
 :::
 
-## Equations
-
-Write mathematical symbols and equations using Latex.
-
-## Code
-
-## Images
-
-![Artwork by
-[\@allison_horst](https://www.allisonhorst.com/)](images/penguins.png){fig-alt="Three penguins labeled Chinstrap, Gentoo, and Adelie."
-fig-align="center"}
-
-## Columns
-
-::: columns
-::: {.column width="50%"}
-Calculate the proportion of penguins from each species.
-:::
-
-::: {.column width="50%"}
-```{r}
-#| echo: true
-
-
-```
-:::
-:::
-
-## Panels
-
-::: panel-tabset
-## Plot
-
-```{r}
-
-
-```
-
-## Code
-
-```{r}
-#| echo: true
-#| eval: false
-
-
-```
-:::
-
-## Themes
-
-Customize the appearance of the slides using
-
--   Built-in [Reveal
-    theme](https://quarto.org/docs/presentations/revealjs/themes.html#using-themes)
-
--   Modify built-in theme using
-    [Sass](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes)
-
-    -   Variant of CSS that supports variables and other features
-
--   Create custom thing using Sass
-
-Specify the theme and/or Sass file (.scss) in the YAML
+## 

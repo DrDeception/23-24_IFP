@@ -2,6 +2,7 @@
 title: "Deception & Counter-Deception"
 author: "Dr. Gordon Wright"
 date: "March 05, 2024"
+date-format: "dddd, MMMM DD"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "images/logo.png"
 format: 
@@ -9,6 +10,8 @@ format:
     theme: default
     transition: fade
     slide-number: true
+    controls-layout: edges
+    controls: true
     incremental: false 
     chalkboard: true
     center: true
