@@ -31,6 +31,10 @@ format:
     mainfont: "Atkinson Hyperlegible"
    # css: styles.css
     toc: true
+    df-print: kable
+    smooth-scroll: true
+    link-external-newwindow: true
+    linkcolor: '#BC0031'
     
 
 execute: 
