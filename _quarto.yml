@@ -3,6 +3,7 @@ project:
 
 website:
   title: "IFP: Suspects & Deception"
+  
   sidebar:
     background: primary
     logo: "images/LMLLOGO.png"
@@ -23,7 +24,7 @@ website:
         text: Syllabus
       - href: schedule.qmd
         text: Schedule
-        
+csl: apa7.csl       
 format:
   html:
     theme: cosmo
