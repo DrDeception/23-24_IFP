@@ -1,22 +1,57 @@
 [
   {
-    "objectID": "slides/week-02/DeceptionCounterDeception.html#stuff",
-    "href": "slides/week-02/DeceptionCounterDeception.html#stuff",
-    "title": "Deception & Counter-Deception",
-    "section": "Stuff",
-    "text": "Stuff\nHere is some stuff\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+    "objectID": "slides/week-01/SuspectInterviews.html#bullet-point-list",
+    "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
+    "title": "Suspect Interviewing",
+    "section": "Bullet point list",
+    "text": "Bullet point list\n(Wright et al., 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
-    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
-    "title": "Deception & Counter-Deception",
+    "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
+    "href": "slides/week-01/SuspectInterviews.html#incremental-list",
+    "title": "Suspect Interviewing",
+    "section": "Incremental list",
+    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "slides/week-01/SuspectInterviews.html#section",
+    "href": "slides/week-01/SuspectInterviews.html#section",
+    "title": "Suspect Interviewing",
+    "section": "",
+    "text": "🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+  },
+  {
+    "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
+    "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
+    "title": "Suspect Interviewing",
     "section": "References",
-    "text": "References\n\n\nDenault, V., Plusquellec, P., Jupe, L. M., St-Yves, M., Dunbar, N. E., Hartwig, M., Sporer, S. L., Rioux-Turcotte, J., Jarry, J., Walsh, D., & al., et. (2020). The analysis of nonverbal communication: The dangers of pseudoscience in security and justice contexts. Anuario de PsicologJur, 30(1), 1–12. https://doi.org/10.5093/apj2019a9"
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither “dark” nor self-deceptive. PLOS ONE, 10(6), e0127315. https://doi.org/10.1371/journal.pone.0127315"
   },
   {
-    "objectID": "exercises/w1-exercises.html",
-    "href": "exercises/w1-exercises.html",
-    "title": "Exercises 01: Suspect behaviour",
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nDeception & Counter-Deception\n\n\nWed, Mar 06\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-02.html#bibliography-2",
+    "href": "weeks/week-02.html#bibliography-2",
+    "title": "Week 02",
+    "section": "References",
+    "text": "References\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
+  },
+  {
+    "objectID": "extras/w1-extras.html",
+    "href": "extras/w1-extras.html",
+    "title": "Extras 01: Suspect Interviews",
+    "section": "",
+    "text": "Add instructions ."
+  },
+  {
+    "objectID": "exercises/w2-exercises.html",
+    "href": "exercises/w2-exercises.html",
+    "title": "Exercises 02: Getting Deceptive",
     "section": "",
     "text": "Add instructions."
   },
@@ -61,27 +96,6 @@
     ]
   },
   {
-    "objectID": "weeks/week-01.html",
-    "href": "weeks/week-01.html",
-    "title": "Week 01",
-    "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "weeks/week-01.html#bibliography-2",
-    "href": "weeks/week-01.html#bibliography-2",
-    "title": "Week 01",
-    "section": "References",
-    "text": "References\n\n\nBurgoon, J. K. (2019). Separating the wheat from the chaff: Guidance from new technologies for detecting deception in the courtroom. Frontiers in Psychiatry, 9, 774. https://doi.org/10.3389/fpsyt.2018.00774\n\n\nBURGOON, J. K., BIRK, T., & PFAU, M. (1990). Nonverbal Behaviors, Persuasion, and Credibility. Human Communication Research Hum Commun Res, 17(1), 140–169. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x"
-  },
-  {
-    "objectID": "extras/w2-extras.html",
-    "href": "extras/w2-extras.html",
-    "title": "Extras 02: Deception Wizarding",
-    "section": "",
-    "text": "Add instructions."
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -110,13 +124,6 @@
     "crumbs": [
       "Schedule"
     ]
-  },
-  {
-    "objectID": "extras/w1-extras.html",
-    "href": "extras/w1-extras.html",
-    "title": "Extras 01: Suspect Interviews",
-    "section": "",
-    "text": "Add instructions ."
   },
   {
     "objectID": "index.html",
@@ -163,58 +170,51 @@
     "href": "index.html#teaching-team",
     "title": "Investigative Forensic Psychology",
     "section": "Teaching team",
-    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom\n\n\n\n\n# End\n\n## Contact\n\n```{=html}\n&lt;script src=\"https://use.fontawesome.com/23c1d38eea.js\"&gt;&lt;/script&gt;\n\n\n gordonrtwright\n\n\n &lt;a style=“color:black” href=“javascript:window.location.href = ‘mailto:g.wright@gold.ac.uk’\n\n\n DrDeception\n\n\n LittleMonkeyLab.com\n\n\n\n[]\n\n```",
+    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom\n\n\n\n\n# FOOTER!\n\n## Contact\n\n```{=html}\n&lt;script src=\"https://use.fontawesome.com/23c1d38eea.js\"&gt;&lt;/script&gt;\n\n&lt;ul class=\"fa-ul\" style=\"color:black; list-style:none;\"&gt;\n\n&lt;li&gt;&lt;i class=\"fa-li fa fa-linkedin-square\"&gt;&lt;/i&gt;\n&lt;a href=\"https://www.linkedin.com/in/gordonrtwright/\" target=\"_blank\" style=\"color:black; border-bottom:none;\"&gt;gordonrtwright&lt;/a&gt;&lt;/li&gt;\n\n&lt;li&gt;&lt;i class=\"fa-li fa fa-envelope-o\"&gt;&lt;/i&gt; \\&lt;a style=\"color:black\"\nhref=\"javascript:window.location.href =\n'mailto:g.wright@gold.ac.uk'&lt;/a&gt;&lt;/li&gt;\n\n&lt;li&gt;&lt;i class=\"fa-li fa fa-github\"&gt;&lt;/i&gt;\n&lt;a href=\"https://github.com/drdeception\" target=\"_blank\" style=\"color:black; border-bottom:none;\"&gt;DrDeception&lt;/a&gt;&lt;/li&gt;\n\n&lt;li&gt;&lt;i class=\"fa-li fa fa-book\"&gt;&lt;/i&gt;\n&lt;a href=\"https://littlemonkeylab.com\" target=\"_blank\" style=\"color:black; border-bottom:none;\"&gt;LittleMonkeyLab.com&lt;/a&gt;&lt;/li&gt;\n\n&lt;/ul&gt;\n\n&lt;small style=\"text-align:left;\"&gt;\n\n![CC BY-NC-SA\n4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)\n\n&lt;/small&gt;\n```",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
-    "section": "",
-    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nDeception & Counter-Deception\n\n\nWed, Mar 06\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "weeks/week-02.html#bibliography-2",
-    "href": "weeks/week-02.html#bibliography-2",
-    "title": "Week 02",
-    "section": "References",
-    "text": "References\n\n\nWright, G. R. T., Berry, C. J., & Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. u1 - wright2012. Frontiers in Human Neuroscience, 6, 87. https://doi.org/10.3389/fnhum.2012.00087"
-  },
-  {
-    "objectID": "exercises/w2-exercises.html",
-    "href": "exercises/w2-exercises.html",
-    "title": "Exercises 02: Getting Deceptive",
+    "objectID": "exercises/w1-exercises.html",
+    "href": "exercises/w1-exercises.html",
+    "title": "Exercises 01: Suspect behaviour",
     "section": "",
     "text": "Add instructions."
   },
   {
-    "objectID": "slides/week-01/SuspectInterviews.html#bullet-point-list",
-    "href": "slides/week-01/SuspectInterviews.html#bullet-point-list",
-    "title": "Suspect Interviewing",
-    "section": "Bullet point list",
-    "text": "Bullet point list\n(Wright et al., 2015)\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#incremental-list",
-    "href": "slides/week-01/SuspectInterviews.html#incremental-list",
-    "title": "Suspect Interviewing",
-    "section": "Incremental list",
-    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
-  },
-  {
-    "objectID": "slides/week-01/SuspectInterviews.html#section",
-    "href": "slides/week-01/SuspectInterviews.html#section",
-    "title": "Suspect Interviewing",
+    "objectID": "extras/w2-extras.html",
+    "href": "extras/w2-extras.html",
+    "title": "Extras 02: Deception Wizarding",
     "section": "",
-    "text": "🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+    "text": "Add instructions."
   },
   {
-    "objectID": "slides/week-01/SuspectInterviews.html#bibliography-1",
-    "href": "slides/week-01/SuspectInterviews.html#bibliography-1",
-    "title": "Suspect Interviewing",
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Topic\n\n\nDate\n\n\n\n\n\n\nSuspect Interviewing\n\n\nTue, Mar 05\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "weeks/week-01.html#bibliography-2",
+    "href": "weeks/week-01.html#bibliography-2",
+    "title": "Week 01",
     "section": "References",
-    "text": "References\n\n\nWright, G. R. T., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither “dark” nor self-deceptive. PLOS ONE, 10(6), e0127315. https://doi.org/10.1371/journal.pone.0127315"
+    "text": "References\n\n\nBurgoon, J. K. (2019). Separating the wheat from the chaff: Guidance from new technologies for detecting deception in the courtroom. Frontiers in Psychiatry, 9, 774. https://doi.org/10.3389/fpsyt.2018.00774\n\n\nBURGOON, J. K., BIRK, T., & PFAU, M. (1990). Nonverbal Behaviors, Persuasion, and Credibility. Human Communication Research Hum Commun Res, 17(1), 140–169. https://doi.org/10.1111/j.1468-2958.1990.tb00229.x"
+  },
+  {
+    "objectID": "slides/week-02/DeceptionCounterDeception.html#stuff",
+    "href": "slides/week-02/DeceptionCounterDeception.html#stuff",
+    "title": "Deception & Counter-Deception",
+    "section": "Stuff",
+    "text": "Stuff\nHere is some stuff\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+  },
+  {
+    "objectID": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "href": "slides/week-02/DeceptionCounterDeception.html#bibliography-1",
+    "title": "Deception & Counter-Deception",
+    "section": "References",
+    "text": "References\n\n\nDenault, V., Plusquellec, P., Jupe, L. M., St-Yves, M., Dunbar, N. E., Hartwig, M., Sporer, S. L., Rioux-Turcotte, J., Jarry, J., Walsh, D., & al., et. (2020). The analysis of nonverbal communication: The dangers of pseudoscience in security and justice contexts. Anuario de PsicologJur, 30(1), 1–12. https://doi.org/10.5093/apj2019a9"
   }
 ]
