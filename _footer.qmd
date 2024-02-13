@@ -1,0 +1,30 @@
+# End
+
+## Contact
+
+```{=html}
+<script src="https://use.fontawesome.com/23c1d38eea.js"></script>
+```
+<ul class="fa-ul" style="color:black; list-style:none;">
+
+<li><i class="fa-li fa fa-linkedin-square"></i>
+<a href="https://www.linkedin.com/in/gordonrtwright/" target="_blank" style="color:black; border-bottom:none;">gordonrtwright</a></li>
+
+<li><i class="fa-li fa fa-envelope-o"></i> \<a style="color:black"
+href="javascript:window.location.href =
+'mailto:g.wright\@gold.ac.uk'</a></li>
+
+<li><i class="fa-li fa fa-github"></i>
+<a href="https://github.com/drdeception" target="_blank" style="color:black; border-bottom:none;">DrDeception</a></li>
+
+<li><i class="fa-li fa fa-book"></i>
+<a href="https://littlemonkeylab.com" target="_blank" style="color:black; border-bottom:none;">LittleMonkeyLab.com</a></li>
+
+</ul>
+
+<small style="text-align:left;">
+
+\[![CC BY-NC-SA
+4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)\]
+
+</small>

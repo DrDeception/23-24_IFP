@@ -5,6 +5,7 @@ date: "03/05/2024"
 date-format: "dddd, MMMM DD"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "images/LMLLOGO.png"
+css: logo.css
 format: 
   revealjs:
     theme: default

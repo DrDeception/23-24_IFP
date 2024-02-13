@@ -38,5 +38,6 @@ Recommended Reading:
 
 <!-- Footer insert below -->
 
-```{r child="footer.qmd"}
+```         
+{{< include _footer.qmd >}}
 ```
