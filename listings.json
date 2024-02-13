@@ -1,10 +1,10 @@
 [
   {
-    "listing": "/weeks/week-02.html",
+    "listing": "/weeks/week-01.html",
     "items": [
-      "/slides/week-02/DeceptionCounterDeception.html",
-      "/extras/w2-extras.html",
-      "/exercises/w2-exercises.html"
+      "/slides/week-01/SuspectInterviews.html",
+      "/extras/w1-extras.html",
+      "/exercises/w1-exercises.html"
     ]
   },
   {
@@ -15,11 +15,11 @@
     ]
   },
   {
-    "listing": "/weeks/week-01.html",
+    "listing": "/weeks/week-02.html",
     "items": [
-      "/slides/week-01/SuspectInterviews.html",
-      "/extras/w1-extras.html",
-      "/exercises/w1-exercises.html"
+      "/slides/week-02/DeceptionCounterDeception.html",
+      "/extras/w2-extras.html",
+      "/exercises/w2-exercises.html"
     ]
   }
 ]
