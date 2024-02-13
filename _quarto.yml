@@ -5,7 +5,7 @@ website:
   title: "IFP: Suspects & Deception"
   
   sidebar:
-    background: red
+    background: primary
     logo: "images/LMLLOGO.png"
     pinned: true
     align: center
