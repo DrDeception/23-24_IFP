@@ -112,20 +112,6 @@
     ]
   },
   {
-    "objectID": "footer.html",
-    "href": "footer.html",
-    "title": "End",
-    "section": "",
-    "text": "Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0"
-  },
-  {
-    "objectID": "footer.html#contact",
-    "href": "footer.html#contact",
-    "title": "End",
-    "section": "",
-    "text": "Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0"
-  },
-  {
     "objectID": "extras/w1-extras.html",
     "href": "extras/w1-extras.html",
     "title": "Extras 01: Suspect Interviews",
@@ -177,17 +163,7 @@
     "href": "index.html#teaching-team",
     "title": "Investigative Forensic Psychology",
     "section": "Teaching team",
-    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Investigative Forensic Psychology",
-    "section": "Contact",
-    "text": "Contact\n\n\n\n Klinkenberg\n\n\n ln.AvU@grebneknilK.S\n\n\n ShKlinkenberg\n\n\n\n\n\n\nCC BY-NC-SA 4.0",
+    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom\n\n\n\n\n# End\n\n## Contact\n\n```{=html}\n&lt;script src=\"https://use.fontawesome.com/23c1d38eea.js\"&gt;&lt;/script&gt;\n\n\n gordonrtwright\n\n\n &lt;a style=“color:black” href=“javascript:window.location.href = ‘mailto:g.wright@gold.ac.uk’\n\n\n DrDeception\n\n\n LittleMonkeyLab.com\n\n\n\n[]\n\n```",
     "crumbs": [
       "Home"
     ]
